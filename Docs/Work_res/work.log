@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.22)  30 OCT 2024 13:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.22)  22 OCT 2024 13:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/FizModel/Docs/Review/review.tex
-(d:/FizModel/Docs/Review/review.tex
+**d:/FizModel/Docs/Work_res/work.tex
+(d:/FizModel/Docs/Work_res/work.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-07-20>
 (c:/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -1065,29 +1065,29 @@ Package csquotes Info: Redefining alias 'default' -> 'russian'.
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count374
 \l__pdf_internal_box=\box136
-) (./review.aux)
-\openout1 = `review.aux'.
+) (./work.aux)
+\openout1 = `work.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1123,7 +1123,7 @@ LaTeX Font Info:    ... okay on input line 125.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \th on input line 125.
+LaTeX Info: Redefining \th on input line 119.
 (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count375
@@ -1143,97 +1143,85 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (c:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 125.
- (./review.out) (./review.out)
+Package hyperref Info: Link coloring ON on input line 119.
+ (./work.out) (./work.out)
 \@outlinefile=\write4
-\openout4 = `review.out'.
+\openout4 = `work.out'.
 
 \c@lstlisting=\count381
-
-Overfull \hbox (17.0pt too wide) in paragraph at lines 134--145
-[] [] 
- []
-
-
-
-[1
-
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}]<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
 
 LaTeX Font Warning: Font shape `T2A/cmr/m/up' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 180.
+(Font)              using `T2A/cmr/m/n' instead on input line 164.
 
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 180.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 164.
 (c:/texlive/2024/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OML/cmr/m/up' undefined
-(Font)              using `OML/cmr/m/it' instead on input line 180.
+(Font)              using `OML/cmr/m/it' instead on input line 164.
 
 LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <14.4> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 180.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 164.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 180.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 164.
 LaTeX Font Info:    Font shape `OML/cmr/m/up' in size <7> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 180.
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 180.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 164.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 164.
 (c:/texlive/2024/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `OMS/cmr/m/up' undefined
-(Font)              using `OMS/cmr/m/n' instead on input line 180.
+(Font)              using `OMS/cmr/m/n' instead on input line 164.
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 180.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 164.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 180.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 164.
 LaTeX Font Info:    Font shape `OMS/cmr/m/up' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 180.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 180.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 164.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 164.
 (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 180.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 164.
  (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for PD1+cmr on input line 180.
-LaTeX Font Info:    No file PD1cmr.fd. on input line 180.
+LaTeX Font Info:    Trying to load font information for PD1+cmr on input line 164.
+LaTeX Font Info:    No file PD1cmr.fd. on input line 164.
 
 
 LaTeX Font Warning: Font shape `PD1/cmr/m/up' undefined
-(Font)              using `PD1/pdf/m/n' instead on input line 180.
+(Font)              using `PD1/pdf/m/n' instead on input line 164.
 
-LaTeX Font Info:    Trying to load font information for PU+cmr on input line 180.
-LaTeX Font Info:    No file PUcmr.fd. on input line 180.
+LaTeX Font Info:    Trying to load font information for PU+cmr on input line 164.
+LaTeX Font Info:    No file PUcmr.fd. on input line 164.
 
 LaTeX Font Warning: Font shape `PU/cmr/m/up' undefined
-(Font)              using `PU/pdf/m/n' instead on input line 180.
+(Font)              using `PU/pdf/m/n' instead on input line 164.
 
 
+
+[1
+
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}]
 
 [2]
-<media/Force_HT.png, id=97, 422.0568pt x 310.0383pt>
-File: media/Force_HT.png Graphic file (type png)
-<use media/Force_HT.png>
-Package pdftex.def Info: media/Force_HT.png  used on input line 238.
-(pdftex.def)             Requested size: 241.84843pt x 177.66035pt.
+
+[3]
+<Graphs/Nbydt.png, id=104, 416.2752pt x 315.8199pt>
+File: Graphs/Nbydt.png Graphic file (type png)
+<use Graphs/Nbydt.png>
+Package pdftex.def Info: Graphs/Nbydt.png  used on input line 264.
+(pdftex.def)             Requested size: 241.84843pt x 183.48889pt.
 
 
-[3 <./media/Force_HT.png>]
-
-[4]
-Overfull \hbox (16.93854pt too wide) in paragraph at lines 249--250
-[]\T2A/cmr/m/n/14.4 Исследование ре-жи-мов тер-мо-ядер-но-го го-ре-ния. Свет-лов А.С. УДК 621.039.6 
- []
-
-
-
-[5] 
+[4 <./Graphs/Nbydt.png>] 
 enddocument/afterlastpage: lastpage setting LastPage.
-(./review.aux)
+(./work.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-07-20>
@@ -1242,22 +1230,22 @@ L3 programming layer <2024-07-20>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `review.out' has not changed.
-(rerunfilecheck)             Checksum: 013ABBA88C21D44EEADADAC33288BCBD;1394.
+Package rerunfilecheck Info: File `work.out' has not changed.
+(rerunfilecheck)             Checksum: 4561341BD277E6D297572B4C6018DB53;1230.
  ) 
 Here is how much of TeX's memory you used:
- 32764 strings out of 473579
- 636485 string characters out of 5732263
- 1938960 words of memory out of 5000000
- 55045 multiletter control sequences out of 15000+600000
- 568368 words of font info for 59 fonts, out of 8000000 for 9000
+ 32760 strings out of 473579
+ 636442 string characters out of 5732263
+ 1939960 words of memory out of 5000000
+ 55041 multiletter control sequences out of 15000+600000
+ 569163 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,7n,101p,1798b,509s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb>
-Output written on review.pdf (5 pages, 180684 bytes).
+ 98i,7n,101p,567b,514s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb>
+Output written on work.pdf (4 pages, 169030 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 116 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
+ 162 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
  230 words of extra memory for PDF output out of 10000 (max. 10000000)
 
